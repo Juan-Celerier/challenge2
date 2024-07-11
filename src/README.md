@@ -6,7 +6,7 @@
 ## Instalación y Ejecución
 
 1. Clona este repositorio:
-   git clone https://github.com/Juan-Celerier/challenge.git
+   git clone https://github.com/Juan-Celerier/challenge2.git
 2. cd challenge
 
 3. instalar dependencias
